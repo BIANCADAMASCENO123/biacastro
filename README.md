@@ -15,7 +15,6 @@ const bia = {
 
 💻 Estudando desenvolvimento backend com foco em Java, banco de dados e automações utilizando n8n.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 🚀 Buscando evoluir em desenvolvimento de software, APIs, bancos relacionais e soluções escaláveis.
 
